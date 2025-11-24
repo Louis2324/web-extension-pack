@@ -7,9 +7,9 @@ All extensions in this pack are organized, open-source, and built using Manifest
 
 | Extension | Description | Repo | Status |
 |----------|-------------|------|--------|
-| Dark Mode | Forces dark mode on any site | extension-darkmode | Planned |
-| Tab Cleaner | Automatically closes unused tabs | extension-tabcleaner | Planned |
-| Screenshot Tool | Capture screenshots easily | extension-screenshot | Planned |
+| Website Theme Switcher | Changes the theme of websites | extension-theme-switcher | Planned |
+| Quick Note Taker | Take notes across the web | extension-note-taker | Planned |
+| Tab Organizer | Group and organise like tabs for better finding | extension-tab-organizer | Planned |
 
 ## Goals
 - Publish multiple Chrome extensions

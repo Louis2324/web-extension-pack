@@ -8,7 +8,7 @@ All extensions in this pack are organized, open-source, and built using Manifest
 | Extension | Description | Repo | Status |
 |----------|-------------|------|--------|
 | Website Theme Switcher | Changes the theme of websites | [extension-theme-switcher](https://github.com/Louis2324/extension-theme-switcher) | Done |
-| Quick Note Taker | Take notes across the web | extension-note-taker | Planned |
+| Quick Note Taker | Take notes across the web | [extension-note-taker](https://github.com/Louis2324/extension-note-taker) | In progress |
 | Tab Organizer | Group and organise like tabs for better finding | extension-tab-organizer | Planned |
 
 ## Goals
